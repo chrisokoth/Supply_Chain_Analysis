@@ -1,6 +1,6 @@
 # Supply_Chain_Analysis
 
-The analysis was conducted using he pandas Python library on a Supply Chain dataset, utilizing the Jupyter Notebook extension in Visual Studio Code. The analysis was designed to answer various questions related to the Supply Chain dataset.
+The analysis was conducted using the pandas Python library on a Supply Chain dataset, utilizing the Jupyter Notebook extension in Visual Studio Code. The analysis was designed to answer various questions related to the Supply Chain dataset.
 
 The dataset was imported into Jupyter Notebook and preprocessed to ensure that it was clean and structured in a manner that allowed for easy manipulation using pandas.
 
@@ -37,7 +37,7 @@ Transportation analysis; : Analyzing transportation modes, routes, and costs to 
 Sales trends analysis: This would involve examining the data over time to identify trends in sales, including seasonality, periodicity, or other patterns that can inform business strategy.
 
 
-# Questions Answerd from the Analysis
+# Questions Answered from the Analysis
 The distribution of customer gender in the database
 
 The total sales per product type
