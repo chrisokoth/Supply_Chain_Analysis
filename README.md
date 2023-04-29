@@ -9,7 +9,7 @@ The answers to the diffrent questions were obtained by applying different pandas
 
 Overall, the analysis provided valuable insights into the Supply Chain dataset, helping to identify trends and patterns that can be used to optimize the supply chain processes and improve customer satisfaction.
 
-The supply Chain is the network of production and logistics involved in producing and delivering goods to customers.
+The supply Chain is a network of production and logistics involved in producing and delivering goods to customers.
 Supply chain analysis is the process of examining the various components of a supply chain to identify areas where improvements can be made to enhance efficiency, reduce costs, and increase profitability. This involves analyzing the flow of goods and services, information, and finances between different entities in the supply chain, including suppliers, manufacturers, distributors, retailers, and customers.
 
 The analysis typically involves evaluating factors such as lead times, inventory levels, transportation costs, supplier performance, customer demand patterns, and production capacity. By identifying areas where the supply chain can be optimized, organizations can implement changes to improve overall performance, reduce waste, and increase customer satisfaction.
